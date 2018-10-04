@@ -54,11 +54,10 @@
                             var baliseUl = document.querySelector("div.listePhoto");
                             // DOM Document Object Model
                             // AJOUTER UNE BALISE li
-                            var codeHtmlLi = '<span class="">' +
-                                '<a href="' + link + '">' +
+                            var codeHtmlLi ='<a href="' + link + '">' +
                                 '<img class="" style="height: 150px; width:200px; object-fit:cover;"  src="' + standardResolution + '">' +
-                                '</a>' +
-                                '</span>';
+                                '</a>' ;
+                               
                             // AJOUTER NOTRE CODE POUR LA BALISE li DANS LA BALISE ul
                             baliseUl.innerHTML += codeHtmlLi;
                         }
