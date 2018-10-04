@@ -12,9 +12,9 @@
       <p>BIENVENUE AU HACKATHON</p>
     </header>
     <main>
-        <ul class="listeInfo">
+        <div class="listePhoto">
             <!-- ICI ON VA CREER UNE BALISE li PAR INFO RECUPERE -->
-        </ul>
+        </div>
     </main>
   </div>
   <script
@@ -51,14 +51,14 @@
                         var lowResolution = infoCourante.lowResolution;
                         var standardResolution = infoCourante.standardResolution;
                         if (link) {
-                            var baliseUl = document.querySelector("ul.listeInfo");
+                            var baliseUl = document.querySelector("div.listeInfo");
                             // DOM Document Object Model
                             // AJOUTER UNE BALISE li
-                            var codeHtmlLi = '<li class="">' +
+                            var codeHtmlLi = '<lspan class="">' +
                                 '<a href="' + link + '">' +
                                 '<img class="" style="height: 150px; width:200px; object-fit:cover;"  src="' + standardResolution + '">' +
                                 '</a>' +
-                                '</li>';
+                                '</span>';
                             // AJOUTER NOTRE CODE POUR LA BALISE li DANS LA BALISE ul
                             baliseUl.innerHTML += codeHtmlLi;
                         }
