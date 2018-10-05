@@ -1,17 +1,17 @@
-# iledufrioul
+# ILES DU FRIOUL
 Fichiers de base pour l'hackathon du frioul . 
 
-# QUELQUES SITES POUR DECOUVRIR : 
+## QUELQUES SITES POUR DECOUVRIR : 
 
 HTML & CSS:https://www.alsacreations.com/article/lire/1205-outils-integration-web-debuter.html
 
 BOOTSRAP: Documentation : http://getbootstrap.com/docs/4.1/getting-started/introduction/
 
-# PREMIERE ETAPE
+## PREMIERE ETAPE
 La première chose à faire consiste à créer un compte utilisateur gratuit. Allez tout simplement sur https://github.com, choisissez un nom d’utilisateur qui n’est pas déjà pris et saisissez une adresse électronique et un mot de passe, puis cliquez sur  « Sign up for GitHub » .
 
 
-# ENSUITE DEUX POSSIBILITES : 
+## ENSUITE DEUX POSSIBILITES : 
 
 + Vous possédez un editeur de texte sur votre ordinateur (sublime, atom, visual studio code...) Aller sur 
 https://github.com/Kozica15/code4marseille. Cliquer  Sur le bouton de droite : clone or download. Copier le fichier sur votre ordinateur. 
