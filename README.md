@@ -13,7 +13,7 @@ La première chose à faire consiste à créer un compte utilisateur gratuit. Al
 
 ## ENSUITE DEUX POSSIBILITES : 
 
-+ Vous possédez un editeur de texte sur votre ordinateur (sublime, atom, visual studio code...) Aller sur 
++ Vous possédez un editeur de texte sur votre ordinateur (Visual studio code https://code.visualstudio.com/, Sublime, Atom, ...) Aller sur 
 https://github.com/Kozica15/code4marseille. Cliquer  Sur le bouton de droite : clone or download. Copier le fichier sur votre ordinateur. 
 
 + Vous ne possedez pas d'éditeur de texte, vous pouvez travailler directement sur le fichier sur github.
