@@ -24,7 +24,8 @@ https://github.com/Kozica15/code4marseille.
 + Cliquez sur le bouton RAW en haut à droite sur votre fichier.
   exemple: raw.githubusercontent.com/Kozica15/code4marseille/master/iledufrioul1.html
   
-+ Gardez uniquement la deuxième partie de l'URL. C'est le nom de domaine qui change.  ici : Kozica15/code4marseille/edit/master/README.md
++ Gardez uniquement la deuxième partie de l'URL. C'est le nom de domaine qui change.  
+Pour notre exemple: Kozica15/code4marseille/edit/master/README.md
 + Construisez l'url en mettant en premier : https://frioul.code4marseille.fr/
 en second : Kozica15/code4marseille/edit/master/README.md
 
