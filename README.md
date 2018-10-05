@@ -25,11 +25,12 @@ https://github.com/Kozica15/code4marseille.
   exemple: raw.githubusercontent.com/Kozica15/code4marseille/master/iledufrioul1.html
   
 + Gardez uniquement la deuxième partie de l'URL. C'est le nom de domaine qui change.  ici : Kozica15/code4marseille/edit/master/README.md
-3 Construisez l'url en mettant en premier : https://frioul.code4marseille.fr/
++ Construisez l'url en mettant en premier : https://frioul.code4marseille.fr/
 en second : Kozica15/code4marseille/edit/master/README.md
-Ce qui donne :  https://frioul.code4marseille.fr/Kozica15/code4marseille/edit/master/README.md
+
++ Ce qui donne :  https://frioul.code4marseille.fr/Kozica15/code4marseille/edit/master/README.md
 
 VOUS DEVEZ VOIR LE RESULTAT DE VOTRE CODE 
 
-Vous pouvez verifier la conformité de votre code avec le validateur.
++ Vous pouvez verifier la conformité de votre  code avec le validateur.
 https://validator.w3.org/
