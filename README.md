@@ -35,7 +35,7 @@ en second : Kozica15/code4marseille/edit/master/README.md
 
 + Ce qui donne :  https://frioul.code4marseille.fr/Kozica15/code4marseille/edit/master/README.md
 
-VOUS DEVEZ VOIR LE RESULTAT DE VOTRE CODE 
+VOUS VOYEZ  LE RESULTAT DE VOTRE CODE ! 
 
 + Vous pouvez verifier la conformité de votre  code avec le validateur.
 https://validator.w3.org/
