@@ -1,8 +1,7 @@
 # iledufrioul
 Fichiers de base pour l'hackathon du frioul . 
 
-
-Quelques sites pour découvrir : 
+# QUELQUES SITES POUR DECOUVRIR : 
 
 HTML & CSS:https://www.alsacreations.com/article/lire/1205-outils-integration-web-debuter.html
 
@@ -29,4 +28,5 @@ Construisez l'url en mettant en premier :
 https://frioul.code4marseille.fr/
 en second : Kozica15/code4marseille/edit/master/README.md
 Ce qui donne :  https://frioul.code4marseille.fr/Kozica15/code4marseille/edit/master/README.md
+
 VOUS DEVEZ VOIR LE RESULTAT DE VOTRE CODE 
