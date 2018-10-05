@@ -3,10 +3,14 @@ Fichiers de base pour l'hackathon du frioul .
 
 ## QUELQUES SITES POUR DECOUVRIR : 
 
-HTML & CSS:https://www.alsacreations.com/article/lire/1205-outils-integration-web-debuter.html
++ HTML & CSS:https://www.alsacreations.com/article/lire/1205-outils-integration-web-debuter.html
++ BOOTSRAP: Documentation : http://getbootstrap.com/docs/4.1/getting-started/introduction/
 
-BOOTSRAP: Documentation : http://getbootstrap.com/docs/4.1/getting-started/introduction/
-
+Pour aller plus loin: 
++ https://www.codecademy.com/fr
++ https://openclassrooms.com/fr/dashboard
++ https://www.alsacreations.com/
+ 
 ## PREMIERE ETAPE
 La première chose à faire consiste à créer un compte utilisateur gratuit. Allez tout simplement sur https://github.com, choisissez un nom d’utilisateur qui n’est pas déjà pris et saisissez une adresse électronique et un mot de passe, puis cliquez sur  « Sign up for GitHub » .
 
