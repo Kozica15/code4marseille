@@ -1,4 +1,7 @@
 
+/*En CSS on cible la balise et à l'interieur de l'accolade on donne le style : taille, couleur, police...*/
+
+
 body{
 }
 
@@ -10,5 +13,5 @@ p{
 color:green;}
 
 h1{
-  color: red;
+  
 }
