@@ -19,14 +19,17 @@ https://github.com/Kozica15/code4marseille. Cliquer  Sur le bouton de droite : c
 + Vous ne possedez pas d'éditeur de texte, vous pouvez travailler directement sur le fichier sur github.
 https://github.com/Kozica15/code4marseille. 
 
-Cliquer sur le fichier pour l'ouvrir et cliquer sur le crayon en haut à droite pour pouvoir faire les modifications(Edit). 
-Pour voir  le resultat mettre l'adresse suivante : 
-Cliquez sur le bouton RAW en haut à droite sur votre fichier.
-exemple: raw.githubusercontent.com/Kozica15/code4marseille/master/iledufrioul1.html
-Gardez uniquement la deuxième partie de l'URL  ici : Kozica15/code4marseille/edit/master/README.md
-Construisez l'url en mettant en premier :
-https://frioul.code4marseille.fr/
+1 Cliquer sur le fichier pour l'ouvrir et cliquer sur le crayon en haut à droite pour pouvoir faire les modifications(Edit). 
+2 Pour voir  le resultat mettre l'adresse suivante : 
++ Cliquez sur le bouton RAW en haut à droite sur votre fichier.
+  exemple: raw.githubusercontent.com/Kozica15/code4marseille/master/iledufrioul1.html
+  
++ Gardez uniquement la deuxième partie de l'URL. C'est le nom de domaine qui change.  ici : Kozica15/code4marseille/edit/master/README.md
+3 Construisez l'url en mettant en premier : https://frioul.code4marseille.fr/
 en second : Kozica15/code4marseille/edit/master/README.md
 Ce qui donne :  https://frioul.code4marseille.fr/Kozica15/code4marseille/edit/master/README.md
 
 VOUS DEVEZ VOIR LE RESULTAT DE VOTRE CODE 
+
+Vous pouvez verifier la conformité de votre code avec le validateur.
+https://validator.w3.org/
