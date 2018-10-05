@@ -29,7 +29,7 @@
                         var lowResolution = infoCourante.lowResolution;
                         var standardResolution = infoCourante.standardResolution;
                         if (link) {
-                            var baliseUl = document.querySelector("div.listePhoto");
+                            var baliseUl = document.querySelector(".listePhoto");
                             // DOM Document Object Model
                             // AJOUTER UNE BALISE li
                             var codeHtmlLi ='<a href="' + link + '">' +
@@ -37,7 +37,10 @@
                                 '</a>' ;
                                
                             // AJOUTER NOTRE CODE POUR LA BALISE li DANS LA BALISE ul
+                         if (baliseUl)
                             baliseUl.innerHTML += codeHtmlLi;
+                         else
+                           console.log('IL MANQUE LA BALISE HTML AVEC LA CLASSE .listePhoto');
                         }
                     }
                 }
